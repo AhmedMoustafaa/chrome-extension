@@ -16,12 +16,13 @@ Once loaded, simply click the extension icon, and it will work.
 
 ## Bugs or Issues
 
-If you encounter any bugs, please feel free to contact me.
+If you encounter any bugs, Don't contact me.
 
 ---
 
 ### The Unlicense
-
 This is free and unencumbered software released into the public domain. Anyone is free to copy, modify, distribute, or perform the work, even for commercial purposes, without asking permission.
 
-For more details, please refer to [The Unlicense](http://unlicense.org/).
+However, I am not responsible for any illegal use of this extension. The user assumes full responsibility for any actions taken with it.
+
+For more details, please refer to The Unlicense.
